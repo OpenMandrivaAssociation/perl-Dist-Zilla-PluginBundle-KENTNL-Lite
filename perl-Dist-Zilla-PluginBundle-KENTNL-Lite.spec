@@ -1,5 +1,5 @@
 %define upstream_name    Dist-Zilla-PluginBundle-KENTNL-Lite
-%define upstream_version 0.01000002
+%define upstream_version 0.01009803
 
 Name:       perl-%{upstream_name}
 Version:    %perl_convert_version %{upstream_version}
